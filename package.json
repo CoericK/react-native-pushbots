@@ -1,0 +1,35 @@
+{
+  "name": "react-native-pushbots",
+  "author": {
+    "name": "Erick Arroyo",
+    "email": "erick@erickarroyo.com",
+    "url": "http://twitter.com/coerick"
+  },
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CoericK/react-native-pushbots.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "pushbots",
+    "native",
+    "ios",
+    "android",
+    "notifications",
+    "sdk"
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react-native": "^0.23.1"
+  }
+}
