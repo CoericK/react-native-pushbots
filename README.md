@@ -1,5 +1,5 @@
-# react-native-account-kit
-React Native Account Kit for Android and iOS (soon)
+# react-native-pushbots
+React Native Pushbots for Android and iOS (soon)
 
 ## Installation
 
