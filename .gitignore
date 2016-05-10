@@ -1,7 +1,17 @@
 # IntelliJ files
 .idea/
+*.iml
 
 node_modules/
 
 # OSX files
 .DS_Store
+
+# Gradle files
+.gradle/
+build/
+.gradle
+gradle
+gradlew
+gradlew.bat
+local.properties
